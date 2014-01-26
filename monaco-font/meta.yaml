@@ -1,0 +1,12 @@
+package:
+  name: monaco-font
+  version: 1.0
+
+build:
+  number: 1
+
+requirements:
+  run:
+    - fontreg
+
+# vim:set ts=8 sw=2 sts=2 tw=78 et:
